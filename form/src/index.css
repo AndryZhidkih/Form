@@ -1,0 +1,54 @@
+
+.wrapper{
+	width:800px;
+	height:600px;
+	margin:0 auto;
+	border:1px solid #E1E1E1;
+	background-color: #F5F5F5;
+}
+.h4-elem{
+	margin:10px 0 3px 10px; 
+}
+.form-elem{
+	margin-left: 40px;
+
+}
+.input{
+	width:250px !important;
+	margin: 0 20px 40px 0;
+}
+.label-text{
+	display:block;
+}
+.text_area{
+	width:526px !important;
+	height:80px !important;
+	margin-bottom: 10px;
+}
+.button-elem{
+	display: block;
+	margin-left: 385px;
+}
+.li-grid{
+	list-style-type: none;
+}
+.contact-form{
+	margin-top:20px;
+	width: 570px;
+	max-height:800px;
+}
+.name-grid{
+	font-weight:bold;
+	font-size:16px;
+}
+.email-grid{
+	font-weight:bold;
+	font-size:12px;
+	margin-top: -4px;
+}
+.text-grid{
+	font-family: Geneva;
+	font-size:15px;
+	margin-top: 10px;
+
+}
